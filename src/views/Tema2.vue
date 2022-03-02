@@ -17,7 +17,7 @@
             .div.cajon.mb-4.mt-4
               p Las clases son contenedores de información basados en atributos y en métodos de construcción, los cuales pueden modificar y consultar; son suficientes para representar objetos con los cuales se procesa información, y se usan para hacer objetos que tienen un mismo comportamiento, estado e identidad.
         <br>
-        .div.col-md-11
+        .div.col-md-10
           .h2.titulo-tercero Ejemplo 2:
           p Se tiene una clase “personas” (Mario, Margarita y Alejandro), donde el comportamiento de las personas es leer, trabajar, jugar, etc.; pueden estar en estado despierto o dormido; sus propiedades pueden ser color de ojos, género, estado civil, etc.
           p Su sintaxis sería así:
@@ -74,8 +74,9 @@
               .col-md-7.mb-4.mb-md-0
                 img(src='@/assets/curso/tema2/42.png', alt='Texto que describa la imagen')
             .col-md-5
-              figure
-                img(src='@/assets/curso/tema2/41.png', alt='Texto que describa la imagen')
+              <br>
+              <br>              
+              img(src='@/assets/curso/tema2/41.png', alt='Texto que describa la imagen')
         .multi-collapse3.collapse(data-bs-parent='#MapaGroup01')
           .col-md-2.mb-4
             h2.BG2 Resultado
