@@ -39,10 +39,11 @@
       .div.col-md-6
         p La función arroja como resultados los números 8 y 400.
         p En el ejemplo anterior, se observa la sintaxis de una función que arroja la media aritmética de dos o más números, pero es necesario recordar qué es la media aritmética. Según Paz (s. f.), “La media aritmética o promedio simple se calcula sumando los valores de interés y dividiendo entre el número de valores sumados”. Para el anterior caso, se suman 2 números y el resultado se divide entre 2, así:
-        .div.col-md-4.mb-10.mb-md-0
-          img(src='@/assets/curso/tema1/mate.png', alt='Texto que describa la imagen')  
+        .div.row.bg2
+          .div.col-md-4.mb-10.mb-md-0
+            img(src='@/assets/curso/tema1/mate.png', alt='Texto que describa la imagen')  
       .div.col-md-6
-        img(src='@/assets/curso/tema1/2.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema1/img03.png', alt='Texto que describa la imagen')
 
     <br>
     .col-lg-4
